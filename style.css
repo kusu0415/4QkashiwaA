@@ -85,7 +85,7 @@ header #logo {
 	background: #fff9f5;	/*背景色*/
 	border-top: 1px solid #ccc;		/*上の線の幅、線種、色*/
 	border-bottom: 1px solid #ccc;	/*下の線の幅、線種、色*/
-	font-family: 'Questrial', sans-serif;	/*冒頭で読み込んだGoogle Fontsを適用する指定*/
+	font-family:'Hina Mincho', serif;/*冒頭で読み込んだGoogle Fontsを適用する指定*/
 	height: 105px;	/*高さ。「#menubar ul li a」や「fixmenu」とも連動するので変更の際は注意。説明はこの下の「#menubar ul li a」で書いています。*/
 
 }
