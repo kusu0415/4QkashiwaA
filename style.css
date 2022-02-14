@@ -127,8 +127,8 @@ header #logo {
 	left: 0px;
 	width: 94%;
 	padding: 50px 3%;
-	background: #65a9e9;	/*背景色。古いブラウザ用。*/
-	background: rgba(63,148,227,0.8);	/*背景色。63,148,227はRGBカラーのことで0.8は色が80%出た状態のこと。*/
+	background: ＃e6bfb2;	/*背景色。古いブラウザ用。*/
+	background: rgba(230,191,178,0.8);	/*背景色。63,148,227はRGBカラーのことで0.8は色が80%出た状態のこと。*/
 	text-align: center;	/*テキストをセンタリング*/
 	border-bottom: 1px solid #fff;	/*境界が見辛いので、下線の設定。*/
 }
