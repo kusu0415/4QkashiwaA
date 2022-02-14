@@ -104,7 +104,7 @@ header #logo {
 #menubar ul li span {
 	display: block;
 	font-size: 10px;	/*文字サイズ*/
-	color: #e6bfb2;		/*文字色*/
+	color: #666;		/*文字色*/
 	letter-spacing: 0.2em;	/*文字間隔を少し広くとる設定*/
 }
 /*スマホ用メニューを表示させない*/
