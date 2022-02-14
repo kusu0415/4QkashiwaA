@@ -24,7 +24,7 @@ body {
 	font-family:"和文フォント", "游明朝体", "ヒラギノ明朝 ProN W6", "ヒラギノ明朝 Pro W3", /*フォント種類*/
 	font-size: 16px;	/*文字サイズ*/
 	line-height: 2;		/*行間*/
-	background: #e7eff6;	/*背景色*/
+	background: #b88884;	/*背景色*/
 	-webkit-text-size-adjust: none;
 }
 h1,h2,h3,h4,h5,p,ul,ol,li,dl,dt,dd,form,figure,form {margin: 0px;padding: 0px;font-size: 100%;font-weight: normal;}
