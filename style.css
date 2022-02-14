@@ -3,7 +3,7 @@
 
 /*Google Fontsの読み込み
 ---------------------------------------------------------------------------*/
-@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hina+Mincho&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
 
 
@@ -21,7 +21,7 @@ body {
 	margin: 0px;
 	padding: 0px;
 	color: #be8f68;	/*全体の文字色*/
-	font-family:"游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", /*フォント種類*/
+	font-family:"游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝",serif;/*フォント種類*/
 	font-size: 16px;	/*文字サイズ*/
 	line-height: 2;		/*行間*/
 	background: #d4acad;	/*背景色*/
