@@ -690,11 +690,11 @@ header {
 }
 /*三本バーアイコン*/
 #menubar_hdr.close {
-	background: #000 url(https://github.com/kusu0415/4QkashiwaA/blob/main/menu.png?raw=true) no-repeat center top/50px;	/*背景色、背景画像の読み込み、画像の上半分（３本マーク）を表示。幅は50px。*/
+	background: #000 url(https://github.com/kusu0415/4QkashiwaA/blob/main/icon_menu.png?raw=true) no-repeat center top/50px;	/*背景色、背景画像の読み込み、画像の上半分（３本マーク）を表示。幅は50px。*/
 }
 /*閉じるアイコン*/
 #menubar_hdr.open {
-	background: #000 url(https://github.com/kusu0415/4QkashiwaA/blob/main/menu.png?raw=true) no-repeat center bottom/50px;	/*背景色、背景画像の読み込み、画像の下半分（×マーク）を表示。幅は50px。*/
+	background: #000 url(https://github.com/kusu0415/4QkashiwaA/blob/main/icon_menu.png?raw=true) no-repeat center bottom/50px;	/*背景色、背景画像の読み込み、画像の下半分（×マーク）を表示。幅は50px。*/
 }
 
 /*fixmenu設定（メニューが画面上部に到達した際のスタイル）
