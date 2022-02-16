@@ -140,20 +140,20 @@ header #logo {
 	animation-delay: 0.1s;		/*出現するタイミング（秒後）*/
 }
 /*メニュー１個あたりの設定*/
-#menubar ul.ddmenu li {
+#menubar li.ddmenu ul {
 	float: none;
 	width: auto;
 	display: inline-block;
 	font-size: 85%;	/*文字サイズ*/
 }
-#menubar ul.ddmenu li a {
+#menubar li.ddmenu ul a {
 	height: auto;
 	padding: 20px;	/*メニューテキスト同士の余白*/
 	color: #fff;	/*文字色*/
 	opacity: 0.7;	/*透明度。70%色がついた状態。*/
 }
 /*マウスオン時*/
-#menubar ul.ddmenu li a:hover {
+#menubar li.ddmenu ul a:hover {
 	opacity: 1;		/*透明度。色が100%出た状態。*/
 }
 
