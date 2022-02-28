@@ -20,7 +20,7 @@
 body {
 	margin: 0px;
 	padding: 0px;
-	color: #666666;	/*全体の文字色*/
+	color: #ffffff;	/*全体の文字色*/
 	font-family:"游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝",serif;/*フォント種類*/
 	font-size: 16px;	/*文字サイズ*/
 	line-height: 2;		/*行間*/
