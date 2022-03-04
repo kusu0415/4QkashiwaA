@@ -473,7 +473,7 @@ ul.icon img:hover {
 	width: 94%;
 	table-layout: fixed;
 	margin: 0 3% 30px;
-	background: #fff;	/*背景色*/
+	background: #6c848d;	/*背景色*/
 }
 .ta1, .ta1 td, .ta1 th {
 	border: 1px solid #ccc;	/*テーブルの枠線の幅、線種、色*/
