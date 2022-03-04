@@ -299,15 +299,15 @@ body.is-fixed-menu #menubar ul.ddmenu li a {
 }
 /*１つ目ブロックに表示させるテキスト*/
 #contents .list:nth-of-type(1)::before {
-	content: "museum1";
+	content: "house";
 }
 /*２つ目ブロックに表示させるテキスト*/
 #contents .list:nth-of-type(2)::before {
-	content: "Works2";
+	content: "museum";
 }
 /*３つ目ブロックに表示させるテキスト*/
 #contents .list:nth-of-type(3)::before {
-	content: "Works3";
+	content: "museum";
 }
 
 /*ボックス内のボタン（共通）*/
