@@ -465,6 +465,7 @@ ul.icon img:hover {
 	border-bottom: none;	/*下線だけ消す*/
 	text-align: left;		/*文字を左寄せ*/
 	background: #eeece4;	/*背景色*/
+	color:#6c848d
 	font-weight: bold;		/*太字に*/
 	padding: 10px;	/*ボックス内の余白*/
 }
